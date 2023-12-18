@@ -2,7 +2,7 @@ import React from 'react'
 import { io } from 'socket.io-client';
 import CodeDisplay from './CodeDisplay';
 import githubImage from '../images/github.jpeg';
-import downloadImage from '../images/download.jpeg';
+import downloadImage from '../images/download.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus } from '@fortawesome/free-solid-svg-icons';
 import { faPaperPlane } from '@fortawesome/free-solid-svg-icons';
